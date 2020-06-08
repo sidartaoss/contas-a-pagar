@@ -59,7 +59,7 @@ Foi utilizado o banco de dados [MySQL](https://www.mysql.com/) para a persistên
 
 ### Tratamento de Erros e Exceções
 
-O tratamento de erros e exceções foi desenvolvido conforme o estudo proposto por Ali Dehghani em [RESTful API Design: How to handle errors?](https://alidg.me/blog/2016/9/24/rest-api-error-handling).
+O tratamento de erros e exceções foi desenvolvido conforme artigo publicado por Ali Dehghani em [RESTful API Design: How to handle errors?](https://alidg.me/blog/2016/9/24/rest-api-error-handling).
 
 
 ### Uso de Testes Automatizados e Ferramentas de Qualidade
