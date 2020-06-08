@@ -13,7 +13,7 @@ import com.deliverit.contasapagar.dto.ContaAPagarDto;
 import com.deliverit.contasapagar.model.ContaAPagar;
 
 /**
- * Classe mapper para objetos {@link ContaAPagar}.
+ * Interface mapper para objetos {@link ContaAPagar}.
  * 
  * @author Sidarta Silva (semprebono@gmail.com)
  * @version $Revision$
